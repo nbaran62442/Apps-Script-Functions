@@ -1,0 +1,1 @@
+Hello, this is my repository for the projects I do using Google Apps Script! I've just started learning it and am mostly applying the functions I make to pretty specific personal spreadsheets, so if you'd like to use this code but need to adjust it for your own sheets, let me know if you have questions and I can try to help! 
